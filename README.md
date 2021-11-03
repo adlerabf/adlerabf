@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adlerabf
 - 👀 I’m interested in ... Become a Data Scientist
 - 🌱 I’m currently learning ... Python, R and Power BI for Data Science
-- 💞️ I’m looking to collaborate on ... Projects that involves Data Science
+- 💞️ I’m looking to collaborate on ... Data Science projects
 - 📫 How to reach me ...  Instagram: @adler.abf
 
 <!---
