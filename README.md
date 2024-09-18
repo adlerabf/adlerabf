@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adlerabf
 - 👀 I’m interested in ... a transition into a tech career
-- 🌱 I’m currently learning ... Python and Power BI for Data Science, and littlebit of JS
+- 🌱 I’m currently learning ... Python and Power BI for Data Science, and little bit of JS
 - 💞️ I’m looking to collaborate on ... Data Science, dev projects
 - 📫 How to reach me ...  Instagram: @adler.abf
 
